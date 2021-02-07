@@ -1,0 +1,12 @@
+h1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+  border: 1px solid salmon;
+}
+
+body{
+    background-color: salmon;
+}
